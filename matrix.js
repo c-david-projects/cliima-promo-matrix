@@ -7,7 +7,7 @@ document.body.appendChild(c);
 ctx.font = 'normal 16px monospace';
 ctx.textAlign = 'left';
 ctx.textBaseline = 'top';
-ctx.fillStyle = '#fff';
+ctx.fillStyle = 'lime';
 ctx.strokeStyle = 'rgba(0, 0, 0, .3)';
 ctx.shadowColor = '#3f3';
 var page = 0;
