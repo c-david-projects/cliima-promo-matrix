@@ -22,10 +22,10 @@ var messagesArray = new Array(
     "",
     "",
     "Hello, Stranger...",
-    "You have choosen wisely...",
+    "You have chosen wisely...",
     "You are about to enter in a new dimension",
     "A new synthetic form called cliima is out there...",
-    "you will have the oportunity to explore the truth",
+    "you will have the opportunity to explore the truth",
     "in 3,2,1.....",
 );
 
